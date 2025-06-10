@@ -664,7 +664,7 @@ if st.button("Predict Disease"):
         SINGLE_AMBIGUOUS_SYMPTOMS_OF_CONCERN = [
             'high_fever', 'fatigue', 'headache', 'cough', 'chills', 
             'muscle_pain', 'malaise', 'dizziness', 'vomiting', 
-            'abdominal_pain', 'stomach_pain'
+            'abdominal_pain', 'stomach_pain','cold','body pains','hand pain','leg pain'
     ]
         HEURISTIC_SEVERE_DISEASES_KEYWORDS = [
             'AIDS', 'Paralysis', 'Tuberculosis', 'Pneumonia', 'Heart attack', 
