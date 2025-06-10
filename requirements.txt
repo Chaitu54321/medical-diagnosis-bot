@@ -1,6 +1,5 @@
 joblib
 pandas
 numpy
-difflib
 streamlit
 scikit-learn
